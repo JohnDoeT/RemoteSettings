@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SlidingAdDisplaySeconds>31</SlidingAdDisplaySeconds>
+  <EnableLocationDetectionByIP>false</EnableLocationDetectionByIP>
+  <CultureDescriptors>
+    <AdCultureDescriptor CultureName="default">
+      <!-- Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189529" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189530" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189532" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189533" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189534" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189535" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189537" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189538" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189539" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189540" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189541" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189542" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189543" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189544" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189545" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189546" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189547" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189548" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189549" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189550" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189551" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189552" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189553" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189554" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189555" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189556" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189557" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189558" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189559" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189560" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189561" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189562" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189563" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189564" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189565" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189566" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189567" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189568" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189569" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189570" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189571" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="06b7240e-cf84-4477-82b3-6c7609a5dff8" SecondaryID="189572" / -->
+      
+      <Probabilities Probability="5000" AdType="AdDuplex" AppID="50095" />
+
+      <!-- Probabilities Probability="50" AdType="InnerActive" AppID="840230291" / --> <!--  LeadBolt -->
+      <!-- Probabilities Probability="50" AdType="MobFox" AppID="9db9dcddc625492f9dc6acbc9bbd24e4" SecondaryID="11/728/90" / --> <!--  InMobi -->
+    </AdCultureDescriptor>
+  </CultureDescriptors>
+</AdSettings>

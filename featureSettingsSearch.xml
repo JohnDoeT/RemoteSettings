@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <DefaultSettings>
+
+  </DefaultSettings>
+
+  <VersionsSettings>    
+    <VersionSettings>
+      <Version>1.0.0.0</Version>
+      <Features>
+        <string>searchproviders</string>
+        <string>searchprovider_torrentz</string>
+        <!-- string>searchprovider_rutor</string -->
+        <string>searchprovider_piratebay</string>
+        <string>searchprovider_rutracker</string>
+        <string>searchprovider_kickass</string>
+        <string>disablepornfilter</string>
+        <string>exitapp</string>
+      </Features>
+    </VersionSettings>
+    <VersionSettings>
+      <Version>1.1.0.0</Version>
+      <Features>
+        <string>searchproviders</string>
+        <string>searchprovider_torrentz</string>
+        <!-- string>searchprovider_rutor</string -->
+        <string>searchprovider_piratebay</string>
+        <string>searchprovider_rutracker</string>
+        <!-- string>searchprovider_kickass</string -->
+        <string>disablepornfilter</string>
+        <string>exitapp</string>
+      </Features>
+    </VersionSettings>
+    <VersionSettings>
+      <Version>1.2.1.*</Version>
+      <Features>
+        <string>searchproviders</string>
+        <string>searchprovider_torrentz</string>
+        <string>searchprovider_rutor</string>
+        <string>searchprovider_piratebay</string>
+        <string>searchprovider_rutracker</string>
+        <!-- string>searchprovider_kickass</string -->
+        <string>disablepornfilter</string>
+        <string>exitapp</string>
+      </Features>
+    </VersionSettings>
+    <VersionSettings>
+      <Version>1.1.1.0</Version>
+      <Features>
+        <string>searchproviders</string>
+        <!-- string>searchprovider_torrentz</string -->
+        <string>searchprovider_rutor</string>
+        <string>searchprovider_piratebay</string>
+        <string>searchprovider_rutracker</string>
+        <!-- string>searchprovider_kickass</string -->
+        <string>disablepornfilter</string>
+        <string>exitapp</string>
+      </Features>
+    </VersionSettings>
+  </VersionsSettings>
+</RemoteSettings>
