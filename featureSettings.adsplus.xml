@@ -61,11 +61,11 @@
         <string>disablepornfilter</string>
         <string>restoreappbutton</string>
         <string>searchproviders</string>
-        <string>searchprovider_torrentz</string>
+        <!--<string>searchprovider_torrentz</string>
         <string>searchprovider_rutor</string>
         <string>searchprovider_piratebay</string>
         <string>searchprovider_rutracker</string>
-        <string>searchprovider_kickass</string>
+        <string>searchprovider_kickass</string>-->
       </Features>
     </VersionSettings>
     <VersionSettings>
@@ -77,11 +77,11 @@
         <string>disablepornfilter</string>
         <string>restoreappbutton</string>
         <string>searchproviders</string>
-        <string>searchprovider_torrentz</string>
+        <!--<string>searchprovider_torrentz</string>
         <string>searchprovider_rutor</string>
         <string>searchprovider_piratebay</string>
         <string>searchprovider_rutracker</string>
-        <string>searchprovider_kickass</string>
+        <string>searchprovider_kickass</string>-->
       </Features>
     </VersionSettings> 
   </VersionsSettings>
