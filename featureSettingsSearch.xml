@@ -37,7 +37,7 @@
       <Version>1.2.1.*</Version>
       <Features>
         <string>searchproviders</string>
-        <string>searchprovider_torrentz</string>
+        <!-- string>searchprovider_torrentz</string -->
         <string>searchprovider_rutor</string>
         <string>searchprovider_piratebay</string>
         <string>searchprovider_rutracker</string>
