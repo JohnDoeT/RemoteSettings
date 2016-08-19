@@ -545,6 +545,17 @@
         <string>searchprovider_rutracker</string>
         <string>searchprovider_kickass</string>
       </Features>
-    </VersionSettings> 
+    </VersionSettings>
+    <VersionSettings>
+      <Version>1.1.7.*</Version>
+      <Features>
+        <string>backgrounddownload</string>
+        <string>exitapp</string>
+        <string>disablepornfilter</string>
+        <string>restoreappbutton</string>
+        <string>searchproviders</string>
+        <string>searchprovider_piratebay</string>
+      </Features>
+    </VersionSettings>
   </VersionsSettings>
 </RemoteSettings>
