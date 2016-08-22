@@ -87,13 +87,13 @@
     <VersionSettings>
       <Version>1.1.7.*</Version>
       <Features>
-        <string>search</string>
+        <!--<string>search</string>
         <string>backgrounddownload</string>
         <string>exitapp</string>
         <string>disablepornfilter</string>
         <string>restoreappbutton</string>
         <string>searchproviders</string>
-        <string>searchprovider_piratebay</string>
+        <string>searchprovider_piratebay</string>-->
       </Features>
     </VersionSettings>
   </VersionsSettings>

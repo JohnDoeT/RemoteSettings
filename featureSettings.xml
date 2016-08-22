@@ -546,7 +546,7 @@
         <string>searchprovider_kickass</string>
       </Features>
     </VersionSettings>
-    <VersionSettings>
+    <!--<VersionSettings>
       <Version>1.1.7.*</Version>
       <Features>
         <string>backgrounddownload</string>
@@ -556,6 +556,6 @@
         <string>searchproviders</string>
         <string>searchprovider_piratebay</string>
       </Features>
-    </VersionSettings>
+    </VersionSettings>-->
   </VersionsSettings>
 </RemoteSettings>
