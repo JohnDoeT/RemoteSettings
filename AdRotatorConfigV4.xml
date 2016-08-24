@@ -6,6 +6,8 @@
   <!-- DontAvoidPubCenterIfPreviousCallFailed>true</DontAvoidPubCenterIfPreviousCallFailed -->
   <CultureDescriptors>
     <AdCultureDescriptor CultureName="default">
+      <Probabilities Probability="5" AdType="Smaato" AppID="728x90" /><!-- AdMediator-->
+      <Probabilities Probability="5" AdType="Smaato" AppID="320x50" /><!-- AdMediator-->
       <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="180063" />
       <!-- Probabilities Probability="100" AdType="DefaultHouseAd" SecondaryID="MonoTorrent.GUI.AdsPlus\MonoTorrent.GUI.MyHouseAd"/ -->
       <Probabilities Probability="70" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="287886" />
