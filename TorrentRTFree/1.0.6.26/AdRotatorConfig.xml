@@ -6,9 +6,9 @@
   <CultureDescriptors>
     <AdCultureDescriptor CultureName="default">
       <!-- Probabilities Probability="100" AdType="DefaultHouseAd" SecondaryID="MonoTorrent.GUI.AdsPlus\MonoTorrent.GUI.MyHouseAd"/ -->
-      <Probabilities Probability="70" AdType="AdDuplex" AppID="c6cc66b2-247d-4c1c-b684-6664c4173701" SecondaryID="50095" Size="728x90" />
+      <Probabilities Probability="20" AdType="AdDuplex" AppID="c6cc66b2-247d-4c1c-b684-6664c4173701" SecondaryID="50095" Size="728x90" />
       <Probabilities Probability="70" AdType="AdDuplex" AppID="c6cc66b2-247d-4c1c-b684-6664c4173701" SecondaryID="50095" Size="292x60" />
-      <Probabilities Probability="70" AdType="AdDuplex" AppID="c6cc66b2-247d-4c1c-b684-6664c4173701" SecondaryID="162119" Size="728x90" />
+      <Probabilities Probability="20" AdType="AdDuplex" AppID="c6cc66b2-247d-4c1c-b684-6664c4173701" SecondaryID="162119" Size="728x90" />
       <Probabilities Probability="70" AdType="AdDuplex" AppID="c6cc66b2-247d-4c1c-b684-6664c4173701" SecondaryID="162119" Size="292x60" />
       <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="287886" Size="728x90" />
       <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="289047" Size="320x50" />
