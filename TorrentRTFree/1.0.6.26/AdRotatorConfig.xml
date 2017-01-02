@@ -14,6 +14,7 @@
       <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="289047" Size="320x50" />
       <Probabilities Probability="700" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322940" Size="728x90" />
       <Probabilities Probability="300" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322941" Size="320x50" />
-    </AdCultureDescriptor>
+    
+  </AdCultureDescriptor>
   </CultureDescriptors>
 </AdSettings>
