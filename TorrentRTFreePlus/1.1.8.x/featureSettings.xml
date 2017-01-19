@@ -6,7 +6,7 @@
   <ExitApp>true</ExitApp>
   <DisablePornFilter>true</DisablePornFilter>
   <RestoreAppButton>true</RestoreAppButton>
-  <SearchProviders>true</SearchProviders>
+  <SearchProviders>true</SearchProviders> 
   <SearchProvider_Torrentz2>true</SearchProvider_Torrentz2>
   <SearchProvider_TorrentzEu>true</SearchProvider_TorrentzEu>
   <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
