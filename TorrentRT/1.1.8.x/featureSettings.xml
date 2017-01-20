@@ -2,11 +2,11 @@
 
 <RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Search>true</Search>
-  <BackgroundDownload>false</BackgroundDownload>
-  <ExitApp>false</ExitApp>
-  <DisablePornFilter>false</DisablePornFilter>
-  <RestoreAppButton>false</RestoreAppButton>
-  <SearchProviders>false</SearchProviders>
+  <BackgroundDownload>true</BackgroundDownload>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>true</DisablePornFilter>
+  <RestoreAppButton>true</RestoreAppButton>
+  <SearchProviders>true</SearchProviders>
   <SearchProvider_Torrentz2>true</SearchProvider_Torrentz2>
   <SearchProvider_TorrentzEu>true</SearchProvider_TorrentzEu>
   <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
