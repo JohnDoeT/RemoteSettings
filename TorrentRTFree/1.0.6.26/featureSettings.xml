@@ -2,7 +2,6 @@
 
 <RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Search>true</Search>
-  <!--<BackgroundDownload>false</BackgroundDownload>-->
   <ExitApp>true</ExitApp>
   <DisablePornFilter>true</DisablePornFilter>
   <RestoreAppButton>true</RestoreAppButton>
