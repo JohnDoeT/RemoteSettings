@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Search>true</Search>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>true</DisablePornFilter>
+  <RestoreAppButton>true</RestoreAppButton>
+  <SearchProviders>true</SearchProviders>
+  <SearchProvider_Torrentz2>true</SearchProvider_Torrentz2>
+  <SearchProvider_TorrentzEu>true</SearchProvider_TorrentzEu>
+  <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
+  <GoogleAnalytics_TrackingId>UA-43578440-10</GoogleAnalytics_TrackingId>
+  <!-- HockeyApp_AppId>445b67a852df422493cf2832dc66ac6a</HockeyApp_AppId>
+  <HockeyApp_CustomEventsEnabled>true</HockeyApp_CustomEventsEnabled -->
+</RemoteSettings>
