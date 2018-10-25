@@ -11,7 +11,7 @@
   <SearchProvider_TorrentzEu>false</SearchProvider_TorrentzEu>
   <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
   <SearchProvider_Rutor>true</SearchProvider_Rutor>
-  <SearchProvider_Rutracker>false</SearchProvider_Rutracker>
+  <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
   <PirateBayURL>https://thepiratebay.vip</PirateBayURL>
   <RutorURL>http://new-rutor.org</RutorURL>
   <RutrackerURL>https://rutracker.org</RutrackerURL>
