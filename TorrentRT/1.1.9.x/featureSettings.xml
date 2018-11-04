@@ -14,7 +14,7 @@
   <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
   <PirateBayURL>https://thepiratebay.vip</PirateBayURL>
   <RutorURL>http://new-rutor.org</RutorURL>
-  <RutrackerURL>https://rutracker.org</RutrackerURL>
+  <RutrackerURL>http://rutracker.org</RutrackerURL>
   <ProviderURLs>
       <piratebay.org>https://thepiratebay.org</piratebay.org>
       <rutracker.org>https://rutracker.org</rutracker.org>
