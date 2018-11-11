@@ -12,7 +12,7 @@
   <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
   <SearchProvider_Rutor>true</SearchProvider_Rutor>
   <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
-  <PirateBayURL>https://thepiratebay.vip</PirateBayURL>
+  <PirateBayURL>https://pirateproxy.live</PirateBayURL>
   <RutorURL>http://new-rutor.org</RutorURL>
   <RutrackerURL>http://rutracker.org</RutrackerURL>
   <ProviderURLs>
