@@ -6,12 +6,12 @@
   <ExitApp>true</ExitApp>
   <DisablePornFilter>true</DisablePornFilter>
   <RestoreAppButton>true</RestoreAppButton>
-  <SearchProviders>true</SearchProviders>
+  <SearchProviders>false</SearchProviders>
   <SearchProvider_Torrentz2>false</SearchProvider_Torrentz2>
   <SearchProvider_TorrentzEu>false</SearchProvider_TorrentzEu>
-  <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
-  <SearchProvider_Rutor>true</SearchProvider_Rutor>
-  <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
+  <SearchProvider_PirateBay>false</SearchProvider_PirateBay>
+  <SearchProvider_Rutor>false</SearchProvider_Rutor>
+  <SearchProvider_Rutracker>false</SearchProvider_Rutracker>
   <PirateBayURL>https://pirateproxy.live</PirateBayURL>
   <RutorURL>http://new-rutor.org</RutorURL>
   <RutrackerURL>http://rutracker.org</RutrackerURL>
