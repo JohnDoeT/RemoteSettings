@@ -21,6 +21,5 @@
       <rutor.org>http://new-rutor.org</rutor.org>
   </ProviderURLs>
   <GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId>
-  <!-- HockeyApp_AppId>445b67a852df422493cf2832dc66ac6a</HockeyApp_AppId>
-  <HockeyApp_CustomEventsEnabled>true</HockeyApp_CustomEventsEnabled -->
+  <AppCenterId>05dc401d-4a8f-4212-986a-18c750f0dfd7</AppCenterId>
 </RemoteSettings>
