@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Search>false</Search>
+  <BackgroundDownload>false</BackgroundDownload>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>false</DisablePornFilter>
+  <RestoreAppButton>false</RestoreAppButton>
+  <SearchProviders>false</SearchProviders>
+  <SearchProvider_Torrentz2>true</SearchProvider_Torrentz2>
+  <SearchProvider_TorrentzEu>true</SearchProvider_TorrentzEu>
+  <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
+  <SearchProvider_Rutor>true</SearchProvider_Rutor>
+  <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
+  <PirateBayURL>https://pirateproxy.live</PirateBayURL>
+  <RutorURL>http://new-rutor.org</RutorURL>
+  <RutrackerURL>http://rutracker.org</RutrackerURL>
+  <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
+  <AppCenterId>05dc401d-4a8f-4212-986a-18c750f0dfd7</AppCenterId>
+  <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
+  <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
+</RemoteSettings>
