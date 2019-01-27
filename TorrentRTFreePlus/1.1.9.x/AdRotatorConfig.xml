@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SlidingAdDisplaySeconds>31</SlidingAdDisplaySeconds>
+  <EnableLocationDetectionByIP>false</EnableLocationDetectionByIP>
+  <!-- DontAvoidPubCenterIfPreviousCallFailed>true</DontAvoidPubCenterIfPreviousCallFailed -->
+  <CultureDescriptors>
+    <AdCultureDescriptor CultureName="default">
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="180063" />
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="194403" />
+      <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="287886" Size="728x90" />
+      <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="289047" Size="320x50" />
+      <Probabilities Probability="700" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322940" Size="728x90" />
+      <Probabilities Probability="300" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322941" Size="320x50" />
+    </AdCultureDescriptor>
+  </CultureDescriptors>
+</AdSettings>
