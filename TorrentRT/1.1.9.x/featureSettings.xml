@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<!-- Torrent RT-->
 <RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Search>false</Search>
   <BackgroundDownload>false</BackgroundDownload>
@@ -15,7 +16,7 @@
   <RutorURL>http://new-rutor.org</RutorURL>
   <RutrackerURL>http://rutracker.org</RutrackerURL>
   <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
-  <AppCenterId>05dc401d-4a8f-4212-986a-18c750f0dfd7</AppCenterId>
+  <AppCenterId>77e319cb-6475-496c-bf51-32a4c03e9428</AppCenterId><!-- Torrent RT-->
   <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
 </RemoteSettings>
