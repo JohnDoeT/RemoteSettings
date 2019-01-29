@@ -13,7 +13,7 @@
   <SearchProvider_Rutor>true</SearchProvider_Rutor>
   <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
   <PirateBayURL>https://pirateproxy.live</PirateBayURL>
-  <RutorURL>http://new-rutor.org</RutorURL>
+  <RutorURL>http://rutor.info</RutorURL>
   <RutrackerURL>http://rutracker.org</RutrackerURL>
   <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
   <AppCenterId>77e319cb-6475-496c-bf51-32a4c03e9428</AppCenterId><!-- Torrent RT-->
