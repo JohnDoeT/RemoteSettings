@@ -1,11 +1,12 @@
 <?xml version="1.0"?>
+<!-- Torrent RT FREE-->
 <RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Search>false</Search>
-  <BackgroundDownload>false</BackgroundDownload>
+  <Search>true</Search>
+  <BackgroundDownload>true</BackgroundDownload>
   <ExitApp>true</ExitApp>
-  <DisablePornFilter>false</DisablePornFilter>
-  <RestoreAppButton>false</RestoreAppButton>
-  <SearchProviders>false</SearchProviders>
+  <DisablePornFilter>true</DisablePornFilter>
+  <RestoreAppButton>true</RestoreAppButton>
+  <SearchProviders>true</SearchProviders>
   <SearchProvider_Torrentz2>true</SearchProvider_Torrentz2>
   <SearchProvider_TorrentzEu>true</SearchProvider_TorrentzEu>
   <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
@@ -15,7 +16,7 @@
   <RutorURL>http://new-rutor.org</RutorURL>
   <RutrackerURL>http://rutracker.org</RutrackerURL>
   <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
-  <AppCenterId>05dc401d-4a8f-4212-986a-18c750f0dfd7</AppCenterId>
+  <AppCenterId>a2149365-15b4-4bad-956b-eae52644893c</AppCenterId><!-- Torrent RT FREE-->
   <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
 </RemoteSettings>
