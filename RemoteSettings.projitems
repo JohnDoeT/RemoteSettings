@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>2544ad46-409e-4f05-8e00-dd20a4a4abe0</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>RemoteSettings</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)AdRotatorConfigV2.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)AdRotatorConfigV2_Search.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)AdRotatorConfigV3.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)AdRotatorConfigV4.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)featureSettings.ads.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)featureSettings.adsplus.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)featureSettingsSearch.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.8.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.8.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.9.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.9.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.0.6.26\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.0.6.26\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.8.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.8.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.9.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.9.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.0.6.26\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.8.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.9.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.1.4.0\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.1.4.0\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.2.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.2.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.4.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.4.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.3.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.3.x\featureSettings.xml" />
+  </ItemGroup>
+</Project>

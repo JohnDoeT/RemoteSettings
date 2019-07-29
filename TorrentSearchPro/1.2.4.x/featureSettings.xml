@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Search>true</Search>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>false</DisablePornFilter>
+  <SearchProviders>true</SearchProviders>
+  <SearchProvider_Torrentz2>true</SearchProvider_Torrentz2>
+  <SearchProvider_TorrentzEu>true</SearchProvider_TorrentzEu>
+  <SearchProvider_PirateBay>true</SearchProvider_PirateBay>
+  <SearchProvider_Rutor>true</SearchProvider_Rutor>
+  <SearchProvider_Rutracker>true</SearchProvider_Rutracker>
+  <PirateBayURL>https://pirateproxy.live</PirateBayURL>
+  <RutorURL>http://rutor.info</RutorURL>
+  <RutrackerURL>http://rutracker.org</RutrackerURL>
+  <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
+  <AppCenterId>91fec6b4-b289-4f8f-b518-bc70b706f7ed</AppCenterId><!-- Torrent Search-->
+  <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
+</RemoteSettings>
