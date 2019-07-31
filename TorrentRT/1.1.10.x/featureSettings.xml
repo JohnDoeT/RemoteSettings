@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Search>true</Search>
+  <BackgroundDownload>true</BackgroundDownload>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>false</DisablePornFilter>
+  <RestoreAppButton>false</RestoreAppButton>
+  <SearchProviders>true</SearchProviders>
+  <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
+  <AppCenterId>77e319cb-6475-496c-bf51-32a4c03e9428</AppCenterId><!-- Torrent RT-->
+  <!-- MixPanelToken>435fd02b75e22688bfb6aa759589801a</MixPanelToken --><!--TorrentRT FREE Plus-->
+  <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
+  <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
+  <TorrentSearchProviders>
+    <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="torrentz2.eu" IconFile="/Assets/SearchProviders/torrentz.ico" Url="https://torrentz2.eu/"  Language="en-US" />
+    <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="piratebay.org" IconFile="/Assets/SearchProviders/piratebay.ico" Url="https://pirateproxy.live" Language="en-US" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="rutor.info" IconFile="/Assets/SearchProviders/rutor.ico" Url="http://www.rutor.info" Language="ru" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="rutracker.org" IconFile="/Assets/SearchProviders/rutracker.ico" Url="http://rutracker.org" Language="ru" Type="semi-private" />
+
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="1337x" IconFile="/Assets/SearchProviders/1337x_to.ico" Path="\1337x.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="ACG.RIP" IconFile="/Assets/SearchProviders/acg_rip.ico" Path="\acgrip.yml" Language="zh-cn" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Anidex" IconFile="/Assets/SearchProviders/anidex_info.ico" Path="\anidex.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="JackettTorrentSearchProviderConfig" Name="Anime Tosho" IconFile="/Assets/SearchProviders/animetosho_org.ico" SystemType="AnimeTosho" Language="en-US" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="AniRena" IconFile="/Assets/SearchProviders/www_anirena_com.ico" Path="\anirena.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="AudioBookBay" IconFile="/Assets/SearchProviders/audiobookbay_nl.ico" Path="\audiobookbay.yml" Language="en-us" Type="semi-private" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="btbit" IconFile="/Assets/SearchProviders/en_btbit_org.ico" Path="\btbit.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="BTDB" IconFile="/Assets/SearchProviders/btdb_eu.ico" Path="\btdb.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="BTKitty" IconFile="/Assets/SearchProviders/btkittys_co.ico" Path="\btkitty.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="ConCen" IconFile="/Assets/SearchProviders/concen_org.ico" Path="\concen.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="cpasbien" IconFile="/Assets/SearchProviders/www_cpasbien_vg.ico" Path="\cpabien.yml" Language="fr-fr" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="cpasbien clone" IconFile="/Assets/SearchProviders/cpasbiens_cm.ico" Path="\cpasbienclone.yml" Language="fr-fr" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="EliteTorrent.biz" IconFile="/Assets/SearchProviders/www_elitetorrent_one.ico" Path="\elitetorrent-biz.yml" Language="es-es" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="ETTV" IconFile="/Assets/SearchProviders/www_ettv_to.ico" Path="\ettv.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="ExtraTorrent.ag" IconFile="/Assets/SearchProviders/extratorrent_ag.ico" Path="\extratorrent-ag.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="EZTV" IconFile="/Assets/SearchProviders/eztv_io.ico" Path="\eztv.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Frozen Layer" IconFile="/Assets/SearchProviders/www_frozen-layer_com.ico" Path="\frozenlayer.yml" Language="es-es" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="GkTorrent" IconFile="/Assets/SearchProviders/www_gktorrent_biz.ico" Path="\gktorrent.yml" Language="fr-fr" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Hon3yHD-net" IconFile="/Assets/SearchProviders/hon3yhd_net.ico" Path="\hon3yhd-net.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="JackettTorrentSearchProviderConfig" Name="Horrible Subs" IconFile="/Assets/SearchProviders/horriblesubs_info.ico" SystemType="HorribleSubs" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Il Corsaro Blu" IconFile="/Assets/SearchProviders/www_ilcorsaroblu_org.ico" Path="\ilcorsaroblu.yml" Language="it-it" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Il Corsaro Nero" IconFile="/Assets/SearchProviders/ilcorsaronero_pizza.ico" Path="\ilcorsaronero.yml" Language="it-it" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Isohunt2" IconFile="/Assets/SearchProviders/isohunt2_net.ico" Path="\isohunt2.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="iTorrent" IconFile="/Assets/SearchProviders/itorrent_ws.ico" Path="\itorrent.yml" Language="hu" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="KickAssTorrent" IconFile="/Assets/SearchProviders/katcr_co.ico" Path="\kickasstorrent.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="KickAssTorrent (kat.li)" IconFile="/Assets/SearchProviders/kat_li.ico" Path="\kickasstorrent-kathow.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="KikiBT" IconFile="/Assets/SearchProviders/kikibt_pw.ico" Path="\kikibt.yml" Language="zh-cn" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="LimeTorrents" IconFile="/Assets/SearchProviders/www_limetorrents_info.ico" Path="\limetorrents.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="MacTorrents" IconFile="/Assets/SearchProviders/www_mac-torrents_com.ico" Path="\mactorrents.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="MagnetDL" IconFile="/Assets/SearchProviders/www_magnetdl_com.ico" Path="\magnetdl.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Monova" IconFile="/Assets/SearchProviders/monova_org.ico" Path="\monova.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="MovCr" IconFile="/Assets/SearchProviders/movcr_tv.ico" Path="\movcr.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Nyaa.si" IconFile="/Assets/SearchProviders/nyaa_si.ico" Path="\nyaasi.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Nyaa-pantsu" IconFile="/Assets/SearchProviders/nyaa_pantsu_cat.ico" Path="\nyaa-pantsu.yml" Language="en-US" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="JackettTorrentSearchProviderConfig" Name="RARBG" IconFile="/Assets/SearchProviders/rarbg_to.ico" SystemType="Rarbg" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="JackettTorrentSearchProviderConfig" Name="ShowRSS" IconFile="/Assets/SearchProviders/showrss_info.ico" SystemType="ShowRSS" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="SkyTorrentsClone" IconFile="/Assets/SearchProviders/www_skytorrents_lol.ico" Path="\skytorrentsclone.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="SolidTorrents" IconFile="/Assets/SearchProviders/solidtorrents_net.ico" Path="\solidtorrents.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="sukebei.nyaa.si" IconFile="/Assets/SearchProviders/sukebei_nyaa_si.ico" Path="\sukebeinyaasi.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Sukebei-pantsu" IconFile="/Assets/SearchProviders/sukebei_pantsu_cat.ico" Path="\sukebei-pantsu.yml" Language="en-US" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="The Pirate Bay" IconFile="/Assets/SearchProviders/thepiratebay_org.ico" Path="\thepiratebay.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="TNTVillage" IconFile="/Assets/SearchProviders/tntvillage_scambioetico_org.ico" Path="\tntvillage.yml" Language="it-it" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Tokyo Toshokan" IconFile="/Assets/SearchProviders/www_tokyotosho_info.ico" Path="\tokyotosho.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Torlock" IconFile="/Assets/SearchProviders/www_torlock2_com.ico" Path="\torlock.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Torrent Downloads" IconFile="/Assets/SearchProviders/www_torrentdownloads_me.ico" Path="\torrentdownloads.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Torrent9" IconFile="/Assets/SearchProviders/www_torrent9_cat.ico" Path="\torrent9.yml" Language="fr-fr" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="TorrentFunk" IconFile="/Assets/SearchProviders/www_torrentfunk_com.ico" Path="\torrentfunk.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="TorrentGalaxy.org" IconFile="/Assets/SearchProviders/torrentgalaxy_org.ico" Path="\torrentgalaxyorg.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="TorrentKitty" IconFile="/Assets/SearchProviders/gotorrentkitty_cc.ico" Path="\torrentkitty.yml" Language="zh-cn" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="TorrentProject2" IconFile="/Assets/SearchProviders/torrentproject2_se.ico" Path="\torrentproject2.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="TorrentQuest" IconFile="/Assets/SearchProviders/torrentquest_com.ico" Path="\torrentquest.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="JackettTorrentSearchProviderConfig" Name="Torrents.csv" IconFile="/Assets/SearchProviders/torrents-csv_ml.ico" SystemType="Torrentscsv" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Torrentz2" IconFile="/Assets/SearchProviders/torrentz2_eu.ico" Path="\torrentz2.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="YourBittorrent" IconFile="/Assets/SearchProviders/yourbittorrent_com.ico" Path="\yourbittorrent.yml" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="JackettTorrentSearchProviderConfig" Name="YTS" IconFile="/Assets/SearchProviders/yts_lt.ico" SystemType="Yts" Language="en-us" Type="public" />
+    <TorrentSearchProviderConfig xsi:type="CardigannTorrentSearchProviderConfig" Name="Zooqle" IconFile="/Assets/SearchProviders/zooqle_com.ico" Path="\zooqle.yml" Language="en-us" Type="public" />
+  </TorrentSearchProviders>
+</RemoteSettings>
