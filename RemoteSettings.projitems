@@ -18,12 +18,16 @@
     <Content Include="$(MSBuildThisFileDirectory)featureSettings.adsplus.xml" />
     <Content Include="$(MSBuildThisFileDirectory)featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)featureSettingsSearch.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.10.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.10.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.8.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.8.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.9.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFreePlus\1.1.9.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.0.6.26\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.0.6.26\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.10.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.10.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.8.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.8.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.9.x\AdRotatorConfig.xml" />
