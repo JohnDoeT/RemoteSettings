@@ -6,9 +6,7 @@
   <DisablePornFilter>false</DisablePornFilter>
   <RestoreAppButton>false</RestoreAppButton>
   <SearchProviders>true</SearchProviders>
-  <!-- GoogleAnalytics_TrackingId>UA-43578440-1</GoogleAnalytics_TrackingId -->
   <AppCenterId>91fec6b4-b289-4f8f-b518-bc70b706f7ed</AppCenterId><!-- Torrent Search-->
-  <!-- MixPanelToken>435fd02b75e22688bfb6aa759589801a</MixPanelToken --><!--TorrentRT FREE Plus-->
   <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
   <TorrentSearchProviders>
