@@ -29,6 +29,7 @@
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.9.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.9.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.0.6.26\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.10.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.8.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.9.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.1.4.0\AdRotatorConfig.xml" />
