@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Search>true</Search>
-  <BackgroundDownload>false</BackgroundDownload>
+  <BackgroundDownload>true</BackgroundDownload>
   <ExitApp>true</ExitApp>
-  <DisablePornFilter>false</DisablePornFilter>
+  <DisablePornFilter>true</DisablePornFilter>
   <RestoreAppButton>false</RestoreAppButton>
-  <SearchProviders>false</SearchProviders>
+  <SearchProviders>true</SearchProviders>
   <AppCenterId>77e319cb-6475-496c-bf51-32a4c03e9428</AppCenterId><!-- Torrent RT-->
   <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
