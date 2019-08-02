@@ -3,9 +3,9 @@
   <Search>true</Search>
   <BackgroundDownload>true</BackgroundDownload>
   <ExitApp>true</ExitApp>
-  <DisablePornFilter>false</DisablePornFilter>
+  <DisablePornFilter>true</DisablePornFilter>
   <RestoreAppButton>true</RestoreAppButton>
-  <SearchProviders>false</SearchProviders>
+  <SearchProviders>true</SearchProviders>
   <AppCenterId>a2149365-15b4-4bad-956b-eae52644893c</AppCenterId><!-- Torrent RT FREE-->
   <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
