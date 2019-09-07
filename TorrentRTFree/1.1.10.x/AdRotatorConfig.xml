@@ -18,8 +18,8 @@
       <Probabilities Probability="150" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054576" Size="320x50" />
 
       <!-- Native -->
-      <Probabilities Probability="300" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="728x90" />
-      <Probabilities Probability="150" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="320x50" />
+      <Probabilities Probability="10" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="728x90" />
+      <Probabilities Probability="5" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="320x50" />
     </AdCultureDescriptor>
   </CultureDescriptors>
 </AdSettings>
