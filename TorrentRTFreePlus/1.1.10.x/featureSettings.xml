@@ -8,8 +8,8 @@
   <SearchProviders>true</SearchProviders>
   <AppCenterId>05dc401d-4a8f-4212-986a-18c750f0dfd7</AppCenterId><!--TorrentRT FREE Plus-->
   <MixPanelToken>435fd02b75e22688bfb6aa759589801a</MixPanelToken><!--TorrentRT FREE Plus-->
-  <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
-  <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
+  <IsWindowsStoreAnalyticsEnabled>false</IsWindowsStoreAnalyticsEnabled>
+  <CollectConnectionAnalytics>false</CollectConnectionAnalytics>
   <TorrentSearchProviders>
     <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="torrentz2.eu" IconFile="/Assets/SearchProviders/torrentz.ico" Url="https://torrentz2.eu/"  Language="en-US" />
     <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="piratebay.org" IconFile="/Assets/SearchProviders/piratebay.ico" Url="https://pirateproxy.live" Language="en-US" Type="public" />

@@ -7,8 +7,8 @@
   <RestoreAppButton>true</RestoreAppButton>
   <SearchProviders>true</SearchProviders>
   <AppCenterId>a2149365-15b4-4bad-956b-eae52644893c</AppCenterId><!-- Torrent RT FREE-->
-  <IsWindowsStoreAnalyticsEnabled>true</IsWindowsStoreAnalyticsEnabled>
-  <CollectConnectionAnalytics>true</CollectConnectionAnalytics>
+  <IsWindowsStoreAnalyticsEnabled>false</IsWindowsStoreAnalyticsEnabled>
+  <CollectConnectionAnalytics>false</CollectConnectionAnalytics>
   <TorrentSearchProviders>
     <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="torrentz2.eu" IconFile="/Assets/SearchProviders/torrentz.ico" Url="https://torrentz2.eu/"  Language="en-US" />
     <TorrentSearchProviderConfig xsi:type="NativeTorrentSearchProviderConfig" Name="piratebay.org" IconFile="/Assets/SearchProviders/piratebay.ico" Url="https://pirateproxy.live" Language="en-US" Type="public" />
