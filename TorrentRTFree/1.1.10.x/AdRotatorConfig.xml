@@ -13,8 +13,13 @@
       <Probabilities Probability="70" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322940" Size="728x90" />
       <Probabilities Probability="30" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322941" Size="320x50" />
 
-      <Probabilities Probability="700" AdType="PubCenter" AppID="9wzdncrfjb2f" SecondaryID="1100054544" Size="728x90" />
-      <Probabilities Probability="300" AdType="PubCenter" AppID="9wzdncrfjb2f" SecondaryID="1100054544" Size="320x50" />
+      <!-- Banner -->
+      <Probabilities Probability="300" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054576" Size="728x90" />
+      <Probabilities Probability="150" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054576" Size="320x50" />
+
+      <!-- Native -->
+      <Probabilities Probability="300" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="728x90" />
+      <Probabilities Probability="150" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="320x50" />
     </AdCultureDescriptor>
   </CultureDescriptors>
 </AdSettings>
