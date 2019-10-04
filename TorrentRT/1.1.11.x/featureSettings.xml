@@ -5,11 +5,11 @@
   <ExitApp>true</ExitApp>
   <DisablePornFilter>false</DisablePornFilter>
   <RestoreAppButton>false</RestoreAppButton>
-  <SearchProviders>false</SearchProviders>
+  <SearchProviders>true</SearchProviders>
   <AppCenterId>77e319cb-6475-496c-bf51-32a4c03e9428</AppCenterId><!-- Torrent RT-->
   <IsWindowsStoreAnalyticsEnabled>false</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>false</CollectConnectionAnalytics>
-  <DefaultProviderName>pirateproxy.live</DefaultProviderName>
+  <DefaultProviderName>torrentz2.eu</DefaultProviderName>
   <TorrentSearchProviderConfigNames>
     torrentz2.eu
     pirateproxy.live
