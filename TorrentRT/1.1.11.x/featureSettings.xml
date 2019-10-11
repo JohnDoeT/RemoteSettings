@@ -3,7 +3,7 @@
   <Search>true</Search>
   <BackgroundDownload>true</BackgroundDownload>
   <ExitApp>true</ExitApp>
-  <DisablePornFilter>false</DisablePornFilter>
+  <DisablePornFilter>true</DisablePornFilter>
   <RestoreAppButton>false</RestoreAppButton>
   <SearchProviders>true</SearchProviders>
   <AppCenterId>77e319cb-6475-496c-bf51-32a4c03e9428</AppCenterId><!-- Torrent RT-->
