@@ -1,0 +1,476 @@
+<?xml version="1.0"?>
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Search>true</Search>
+  <BackgroundDownload>true</BackgroundDownload>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>true</DisablePornFilter>
+  <RestoreAppButton>true</RestoreAppButton>
+  <SearchProviders>true</SearchProviders>
+  <AppCenterId>a2149365-15b4-4bad-956b-eae52644893c</AppCenterId><!-- Torrent RT FREE-->
+  <IsWindowsStoreAnalyticsEnabled>false</IsWindowsStoreAnalyticsEnabled>
+  <CollectConnectionAnalytics>false</CollectConnectionAnalytics>
+  <DefaultProviderName>torrentz2.eu</DefaultProviderName>
+  <TorrentSearchProviderConfigNames>
+    torrentz2.eu
+    pirateproxy.live
+    rutor.info
+    rutracker.org
+    0day.kiev
+    1337x
+    2 Fast 4 You
+    3D Torrents
+    3evils
+    4thD
+    52PT
+    720pier
+    7torrents
+    Abnormal
+    ACG.RIP
+    ACGsou
+    Acid-Lounge
+    Aftershock
+    Alein
+    AlexFilm
+    AlphaRatio
+    Amigos Share Club
+    Anidex
+    AniDUB
+    Anime Tosho
+    AnimeBytes
+    AnimeTorrents
+    AniRena
+    Anthelion
+    ArabaFenice
+    ArenaBG
+    Asgaard
+    AsianCinema
+    AST4u
+    Audiobook Torrents
+    AudioBookBay
+    AudioNews
+    Avistaz
+    Awesome-HD
+    Back-ups
+    Badass Torrents
+    BaibaKo
+    BakaBT
+    bB
+    BeiTai
+    Beyond-HD
+    Beyond-HD (OneURL)
+    Bibliotik
+    BigFANGroup
+    BIGTorrent
+    BigTower
+    Bit-City Reloaded
+    BIT-HDTV
+    Bithorlo
+    BitHUmen
+    BitRu
+    Bitspyder
+    BiT-TiTAN
+    Bittorrent.AM
+    Bittorrentfiles
+    BitTurk
+    BJ-Share
+    BlueBird
+    Blutopia
+    BookTracker
+    BrasilTracker
+    BroadcastTheNet
+    BroadCity
+    BRObits
+    BrokenStones
+    BT.etree
+    BTDB
+    BTDigg
+    BTeye
+    BTGigs
+    BTNext
+    BTSCHOOL
+    BTSOW
+    Carpathians
+    CartoonChaos
+    Casa-Torrent
+    CasStudioTV
+    CCFBits
+    CGPeers
+    ChannelX
+    CHDBits
+    Cili180
+    Cinemageddon
+    CinemaMovies
+    Cinematik
+    CinemaZ
+    Classix
+    ConCen
+    Concertos
+    Corsaro.red
+    cpasbien
+    cpasbien clone
+    CrazyHD
+    Crazy's Corner
+    CrazySpirits
+    CrnaBerza
+    CzTorrent
+    DanishBits
+    Das Unerwartete
+    DataScene
+    Deildu
+    Demonoid
+    DesiReleasers
+    DesiTorrents
+    Diablo Torrent
+    DigitalCore
+    DigitalHive
+    DivTeam
+    DivxTotal
+    dmhy
+    DocumentaryTorrents
+    Downloadville
+    Dragonworld Reloaded
+    DXDHD
+    DXP
+    EbookParadijs
+    Ebooks-Shares
+    Efecto Doppler
+    EggMeOn
+    EliteTorrent.biz
+    Elite-Tracker
+    Empornium
+    EniaHD
+    Erzsebet
+    eShareNet
+    eStone
+    EstrenosDTL
+    Ethor.net (Thor's Land)
+    ETTV
+    ExoticaZ
+    EXT Torrents
+    ExtraTorrent.cd
+    ExtremeTorrents
+    ExtremlymTorrents
+    EZTV
+    FANO.IN
+    FeedUrNeed
+    Femdomcult
+    Filebase
+    FileList
+    Film-Paleis
+    FinVip
+    FireBit
+    FocusX
+    FreeTorrent
+    Frozen Layer
+    FullMixMusic
+    FunFile
+    FunkyTorrents
+    Fuzer
+    Galeriens
+    GamesTorrents
+    GAYtorrent.ru
+    Gay-Torrents.net
+    gay-torrents.org
+    GazelleGames
+    Generation-Free
+    GFXPeers
+    GigaTorrents
+    GimmePeers
+    Girotorrent
+    GkTorrent
+    GloDLS
+    Greek Team
+    GreekLegends
+    HacheDe
+    HamsterStudio
+    HD4FANS
+    HDArea
+    HDBits
+    HDBits (API)
+    HD-Bits.com
+    HDCenter
+    HDChina
+    HDCity
+    HDDisk
+    HDDolby
+    HD-Forever
+    HDHome
+    HDME
+    HD-Olimpo
+    HD-Only
+    HDReactor
+    HDRoute
+    HDSky
+    HD-Space
+    HD-Spain
+    HDtime
+    HD-Torrents
+    HDTorrents.it
+    HDTurk
+    HDU
+    HDZone
+    Hebits
+    Hon3y HD
+    Horrible Subs
+    HQSource
+    HuSh
+    IBit
+    ICE Torrent
+    Idope
+    Il Corsaro Blu
+    Il Corsaro Nero
+    ImmortalSeed
+    Immortuos
+    inPeril
+    Insane Tracker
+    Internet Archive
+    IPTorrents
+    Isohunt2
+    iTorrent
+    JPopsuki
+    Kapaki
+    Karagarga
+    KickAssTorrent
+    KickAssTorrent (kat.li)
+    Kinozal
+    Korsar
+    LeagueHD
+    LearnFlakes
+    LegacyHD
+    Legit Torrents
+    LePorno
+    LeSaloon
+    LibraNet
+    LimeTorrents
+    LinkoManija
+    LosslessClub
+    LostFilm.tv
+    MacTorrents
+    Magico
+    Magnet4You
+    MagnetDL
+    Majomparádé
+    Marine Tracker
+    MejorTorrent
+    Metal Tracker
+    MicroBit
+    MoeCat
+    Mononoké-BT
+    Monova
+    MoreThanTV
+    MovCr
+    MoviesDVDR
+    M-Team - TP
+    MTeamTP2FA
+    MuziekFabriek
+    MVGroup Forum
+    MVGroup Main
+    myAmity
+    MyAnonamouse
+    MySpleen
+    NBTorrents
+    nCore
+    Nebulance
+    NetCosmo
+    NetHD
+    NetLab
+    New Real World
+    Newpct
+    Newstudio
+    NewstudioL
+    Nitro
+    NNTT
+    NoName Club
+    Norbits
+    Nordicbits
+    NORDiCHD
+    Nostalgic
+    notwhat.cd
+    Nyaa.si
+    Nyaa-pantsu
+    OnlineSelfEducation
+    Orpheus
+    Ourbits
+    OxTorrent
+    P2PBG
+    P2PElite
+    Partis
+    PassThePopcorn
+    Peers.FM
+    PiratBit
+    PiratBitL
+    Pirateiro
+    PirateTheNet
+    PixelCove
+    PiXELHD
+    PleasureDome
+    PolishSource
+    PolishTracker
+    Pornbay
+    Pornbits
+    PornLeech
+    Pornolab
+    PreToMe
+    PrivateHD
+    ProAudioTorrents
+    ProStyleX
+    Psytorrents
+    PT99
+    PTFiles
+    PThome
+    PuntoTorrent
+    PWTorrents
+    R3V WTF!
+    Racing4Everyone (R4E)
+    RacingForMe
+    RARBG
+    Redacted
+    RedStarTorrent
+    RetroFlix
+    RevolutionTT
+    RiperAM
+    RNS
+    RockBox Rock/Metal Tracker
+    RoDVD
+    Romanian Metal Torrent
+    RPTorrents
+    Rus-media
+    Rustorka
+    RuTor
+    RuTracker
+    SceneFZ / u-torrents
+    SceneHD
+    ScenePalace
+    SceneRush
+    SceneTime
+    SceneXpress
+    SDBits
+    Secret Cinema
+    SeedFile
+    Seedpeer
+    Shareisland
+    ShareSpaceDB
+    ShareUniversity
+    Sharewood
+    Shazbat
+    Shellife
+    shokweb
+    ShowRSS
+    SiamBIT
+    SkTorrent
+    SkyTorrentsClone
+    SnowPT
+    Solid Torrents
+    SoundPark
+    SpaceTorrent
+    Speed.cd
+    SpeedTorrent Reloaded
+    SportHD
+    SportsCult
+    SpringSunday
+    sukebei.nyaa.si
+    Sukebei-pantsu
+    Superbits
+    TakeaByte
+    Tapochek
+    Tasmanit
+    TeamHD
+    TeamOS
+    TEKNO3D
+    TellyTorrent
+    TenYardTracker
+    TFile
+    The Empire
+    The Falling Angels
+    The Geeks
+    The Horror Charnel
+    The New Retro
+    The Occult
+    The Pirate Bay
+    The Place
+    The Resurrection
+    The Shinning
+    The Show
+    The Vault
+    TheAudioScene
+    The-Madhouse
+    TLFBits
+    Tokyo Toshokan
+    Toloka.to
+    TopNow
+    Torlock
+    TOROS
+    Torrent Downloads
+    Torrent Network
+    Torrent Sector Crew
+    Torrent.LT
+    Torrent4You
+    Torrent9
+    Torrent9 clone (torrent9.ch)
+    TorrentBD
+    TorrentBytes
+    TorrentCCF
+    TorrentDay
+    TorrentDownload
+    Torrentech
+    Torrent-Explosiv
+    TorrentFactory
+    TorrentFunk
+    TorrentGalaxy.org
+    TorrentHeaven
+    TorrentHR
+    Torrenting
+    TorrentKitty
+    Torrentland
+    TorrentLeech
+    Torrentleech.pl
+    TorrentParadise
+    TorrentProject2
+    TorrentQuest
+    Torrents.csv
+    TorrentSeeds
+    Torrents-Local
+    Torrent-Syndikat
+    TOrrent-tuRK
+    TorrentView
+    TorrentWal (토렌트왈)
+    Torrentz2
+    TotallyKids
+    ToTheGlory
+    TranceTraffic
+    Trezzor
+    TribalMixes
+    TurkTorrent
+    TVChaosUK
+    TVstore
+    TV-Vault
+    Twilight Torrents
+    Twilights Zoom
+    UHDBits
+    Underverse
+    UnderverseL
+    Union Fansub
+    UnionGang
+    Unlimitz
+    Vizuk
+    WDT
+    World-In-HD
+    world-of-tomorrow
+    XbytesV2
+    x-ite.me
+    XSpeeds
+    Xthor
+    Xtreme Zone
+    XtremeFile
+    XWT-Classics
+    XWtorrents
+    YGGcookie
+    YGGtorrent
+    YourBittorrent
+    YTS
+    Zamunda.net
+    Zelka.org
+    Zooqle
+    Ztracker
+  </TorrentSearchProviderConfigNames>
+</RemoteSettings>
