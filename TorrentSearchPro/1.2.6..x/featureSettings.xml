@@ -9,7 +9,7 @@
   <AppCenterId>91fec6b4-b289-4f8f-b518-bc70b706f7ed</AppCenterId><!-- Torrent Search-->
   <IsWindowsStoreAnalyticsEnabled>false</IsWindowsStoreAnalyticsEnabled>
   <CollectConnectionAnalytics>false</CollectConnectionAnalytics>
-  <DefaultProviderName>pirateproxy.live</DefaultProviderName>
+  <DefaultProviderName>RARBG</DefaultProviderName>
   <TorrentSearchProviderConfigNames>
     torrentz2.eu
     pirateproxy.live
