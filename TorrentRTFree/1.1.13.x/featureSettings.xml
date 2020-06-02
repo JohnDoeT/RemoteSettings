@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<RemoteSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Search>true</Search>
+  <BackgroundDownload>true</BackgroundDownload>
+  <ExitApp>true</ExitApp>
+  <DisablePornFilter>true</DisablePornFilter>
+  <RestoreAppButton>true</RestoreAppButton>
+  <SearchProviders>true</SearchProviders>
+  <AppCenterId>a2149365-15b4-4bad-956b-eae52644893c</AppCenterId><!-- Torrent RT FREE-->
+  <IsWindowsStoreAnalyticsEnabled>false</IsWindowsStoreAnalyticsEnabled>
+  <CollectConnectionAnalytics>false</CollectConnectionAnalytics>
+  <TorrentSearchProviderConfigNames></TorrentSearchProviderConfigNames>
+  <DefaultProviderName></DefaultProviderName>
+  <DefaultProviderNamesPerLanguage>
+    en:torrentz2.eu
+    en:pirateproxy.live
+    ru:rutor.info
+    ru:BigFANGroup
+  </DefaultProviderNamesPerLanguage>
+  <BlacklistedTorrentSearchProviderConfigNames></BlacklistedTorrentSearchProviderConfigNames>
+</RemoteSettings>
