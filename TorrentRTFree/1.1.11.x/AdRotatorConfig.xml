@@ -8,18 +8,18 @@
       <!-- Probabilities Probability="100" AdType="DefaultHouseAd" SecondaryID="MonoTorrent.GUI.AdsPlus\MonoTorrent.GUI.MyHouseAd"/ -->
       <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="180063" />
       <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="194403" />
-      <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="287886" Size="728x90" />
+      <!--<Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="287886" Size="728x90" />
       <Probabilities Probability="1" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="289047" Size="320x50" />
       <Probabilities Probability="70" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322940" Size="728x90" />
       <Probabilities Probability="30" AdType="PubCenter" AppID="92edc5f4-d292-4dc2-adc6-0114191edcec" SecondaryID="322941" Size="320x50" />
 
-      <!-- Banner -->
+      --><!-- Banner --><!--
       <Probabilities Probability="300" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054576" Size="728x90" />
       <Probabilities Probability="150" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054576" Size="320x50" />
 
-      <!-- Native -->
+      --><!-- Native --><!--
       <Probabilities Probability="10" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="728x90" />
-      <Probabilities Probability="5" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="320x50" />
+      <Probabilities Probability="5" AdType="PubCenter" AppID="9wzdncrfhw41" SecondaryID="1100054577" Size="320x50" />-->
     </AdCultureDescriptor>
   </CultureDescriptors>
 </AdSettings>
