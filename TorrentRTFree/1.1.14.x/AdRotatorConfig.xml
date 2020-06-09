@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SlidingAdDisplaySeconds>31</SlidingAdDisplaySeconds>
+  <EnableLocationDetectionByIP>false</EnableLocationDetectionByIP>
+  <!-- DontAvoidPubCenterIfPreviousCallFailed>true</DontAvoidPubCenterIfPreviousCallFailed -->
+  <CultureDescriptors>
+    <AdCultureDescriptor CultureName="default">
+      <!-- Probabilities Probability="100" AdType="DefaultHouseAd" SecondaryID="MonoTorrent.GUI.AdsPlus\MonoTorrent.GUI.MyHouseAd"/ -->
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="180063" />
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="194403" />
+      <Probabilities Probability="1" AdType="AdsJumbo" AppID="dgjc2h3e1jpb" />
+    </AdCultureDescriptor>
+  </CultureDescriptors>
+</AdSettings>
