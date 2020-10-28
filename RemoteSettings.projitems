@@ -38,6 +38,8 @@
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.11.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.13.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.13.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.19.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.19.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.18.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.18.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRTFree\1.1.14.x\AdRotatorConfig.xml" />
@@ -51,12 +53,15 @@
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.12.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.11.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.13.x\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.19.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.18.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.14.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.8.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentRT\1.1.9.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.1.4.0\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.1.4.0\featureSettings.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.19.x\AdRotatorConfig.xml" />
+    <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.19.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.2.x\AdRotatorConfig.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.2.x\featureSettings.xml" />
     <Content Include="$(MSBuildThisFileDirectory)TorrentSearchPro\1.2.4.x\AdRotatorConfig.xml" />
