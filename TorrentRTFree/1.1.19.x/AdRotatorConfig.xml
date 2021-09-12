@@ -8,7 +8,7 @@
       <!-- Probabilities Probability="100" AdType="DefaultHouseAd" SecondaryID="MonoTorrent.GUI.AdsPlus\MonoTorrent.GUI.MyHouseAd"/ -->
       <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="180063" />
       <Probabilities Probability="10" AdType="AdDuplex" AppID="eae886d3-599f-4de5-8019-46626c1709ca" SecondaryID="194403" />
-      <Probabilities Probability="1" AdType="AdsJumbo" AppID="dgjc2h3e1jpb" />
+      <Probabilities Probability="10" AdType="AdsJumbo" AppID="dgjc2h3e1jpb" />
     </AdCultureDescriptor>
   </CultureDescriptors>
 </AdSettings>
